@@ -1,2 +1,2 @@
 # calculadora
- Calculadora desenvolvida através do Visual Studio em C# pela interface gráfica.
+ Calculadora desenvolvida através da IDE Visual Studio em C# pela interface gráfica.
